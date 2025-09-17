@@ -10,4 +10,4 @@ provided that you agree:
 including attorneys’ fees, that arise or result from the use or distribution of the Sample Code    
 """
 # Sample-APP-with-proxy-Deployment-in-Python
-This is a python code meant to be deployed in Azure Function App. Its to create API call to SNOW with a proxy configuration 
+This is a sample/demo python code meant to be deployed in Azure Function App. Its to create REST API call to SNOW with a proxy configuration 
